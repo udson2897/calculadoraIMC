@@ -1,0 +1,62 @@
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+
+.formulario{
+    display: flex;
+    flex-direction: column;
+    color: white;
+    border: 3px solid blue;
+    width: 400px;
+    height: 450px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 15px;
+    text-align: center;
+    background-color: grey;
+    margin-top: 50px;
+   
+    
+}
+
+.entrada{
+    font-weight: bold;
+    
+}
+
+.result{
+    border: 1px solid;
+    width: 160px;
+    border-radius: 15px;
+    border-color: blue;
+    
+}
+
+
+
+#lb{
+    font-weight: bold;
+}
+
+input{
+    border-color: blue;
+    border-radius: 15px;
+    text-align: center;
+
+}
+
+
+
+
+#calcular{
+    border-radius: 15px;
+    border-color: blue;
+   
+}
+
+
+    
